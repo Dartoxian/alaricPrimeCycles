@@ -1,4 +1,5 @@
-primes/
+primes/raw
+primes/extract
 out/
 bin/
 .classpath
