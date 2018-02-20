@@ -1,3 +1,5 @@
+primes/
+out/
 bin/
 .classpath
 .gradle/
